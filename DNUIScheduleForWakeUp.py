@@ -1,7 +1,6 @@
 import csv
 import re
 import tkinter
-
 import requests
 from tkinter import *
 from bs4 import BeautifulSoup
