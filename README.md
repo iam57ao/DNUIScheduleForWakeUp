@@ -1,0 +1,2 @@
+# DNUIScheduleForWakeUp
+爬取DNUI课程表的CSV格式用于导入WakeUp。
